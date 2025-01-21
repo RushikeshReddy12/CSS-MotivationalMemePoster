@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+}
+
+#d1{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+    color: white;
+    font-family: 'Times New Roman';
+    text-align: center;
+}
+
+img{
+    border: 5px solid white;
+    width: 100%;
+}
+
+h1{
+    color: white;
+    font-size: 2rem;
+}
+
+p{
+    text-transform: uppercase;
+}
